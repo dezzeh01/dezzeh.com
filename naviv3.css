@@ -1,0 +1,21 @@
+#navigation {
+	text-align: center;
+}
+#navigation ul li {
+	display: inline-block;
+}
+#navigation ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: white;
+	-o-transition: .5s;
+	-ms-transition: .5s;
+	-moz-transition: .5s;
+	-webkit-transition: .5s;
+	transition: .5s;
+}
+#navigation ul li a:hover {
+	color: silver;
+}

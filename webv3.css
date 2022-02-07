@@ -1,0 +1,36 @@
+#wrapper {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 1.5%;
+	width: 70%;
+	background-color: silver;
+	padding: 1%;
+}
+#header {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 1%;
+	width: 70%;
+	height: 70%;
+	background: url(images/dezzehheader3.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	padding: 1%;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: rgba(0, 0, 0, 0.5);
+}
+
+#footer {
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;
+	background: url(images/dezzehfooter2.jpg);
+	padding: 1%;
+	font-family: verdana, sans-serif;
+	color: rgba(0, 0, 0, 0.5);
+}
+
+#content {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+}
